@@ -1,8 +1,6 @@
 Arthur Wang - awang91
 Mason Albert - malber20
 
-We did both parts of the homework together for this assignment.
-
 --------------
 Synchronization
 --------------
